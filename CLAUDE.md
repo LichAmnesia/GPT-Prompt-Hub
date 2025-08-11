@@ -1,3 +1,5 @@
+The orignal prompt is from: https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/
+
 # Development Guidelines
 
 ## Philosophy
