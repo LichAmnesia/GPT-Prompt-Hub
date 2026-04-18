@@ -29,6 +29,10 @@ If you find this project helpful, consider supporting it by starring the reposit
 
 Thank you for being part of GPT-Prompt-Hub!
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LichAmnesia/GPT-Prompt-Hub&type=Date)](https://www.star-history.com/#LichAmnesia/GPT-Prompt-Hub&Date)
+
 ---
 
 *GPT-Prompt-Hub is not officially affiliated with OpenAI but operates under the shared goal of advancing and democratizing AI technology.*
