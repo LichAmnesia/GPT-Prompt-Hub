@@ -1,4 +1,22 @@
-The orignal prompt is from: https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/
+# Repository Structure
+
+This repo is a curated hub of 222 prompts for Claude/GPT/Gemini, organized under `prompts/` by category:
+
+- `prompts/business/` (25) — strategy, PRDs, venture plans, unit economics
+- `prompts/career/` (15) — resume, cover letter, ATS, interview prep
+- `prompts/creative/` (25) — music, visual, games, multimedia
+- `prompts/engineering/` (25) — code review, architecture, simulators
+- `prompts/health-life/` (7) — CBT, clinical reasoning, wellness (non-diagnostic)
+- `prompts/learning/` (25) — tutoring, language coaching, mock interviews
+- `prompts/marketing-seo/` (25) — paid media, SEO, landing pages, brand
+- `prompts/productivity/` (25) — PRDs, planning, PR review, app specs
+- `prompts/research/` (25) — literature review, market analysis, paper reading
+- `prompts/writing/` (25) — editing, translation, long-form, screenplay
+- `prompts/legacy/` (4) — original 2024 custom GPTs, kept for historical record
+
+Each prompt file uses frontmatter (`title`, `category`, `tags`, `model`, `use_case`) and a structured body (`Role / Objective / Inputs / Output / Constraints / Example`). Do not edit prompts without updating frontmatter. Root `README.md` is the source of truth for the full catalog; each category has its own `README.md` as a per-folder TOC.
+
+`_analysis/popular-patterns.md` holds the strategy analysis behind the 222-prompt curation — read before adding new prompts.
 
 # Development Guidelines
 
