@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lichamnesia-gpt-prompt-hub-badge.png)](https://mseep.ai/app/lichamnesia-gpt-prompt-hub)
+
 # Prompt Hub — 222 Battle-Tested Prompts for Claude, GPT, Gemini
 
 > Author: Shen Huang
